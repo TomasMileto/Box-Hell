@@ -25,7 +25,7 @@ Despite being the first of the two I devoloped for that course, I find this one 
 • Support joystick input\
 • Implement two player mode\
 • Add hazards, random weapons, more power-ups and perhaps bosses\
-• Refine code (it's kinda uncouth)
+• Refine code (it's kinda uncouth)\
 • SKINS
 
 
