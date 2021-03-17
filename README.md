@@ -7,17 +7,17 @@ Despite being the first of the two I devoloped for that course, I think (persona
 
 ##What I Learned
 
-• The basics of the Unity Editor\n
-• Game Managers, UI Managers, Instances and Singletons\n
-• Usage of the Unity Inspector\n
-• Basic Animations, sprites and Animator\n
-• Movement and colliders\n
-• Instantiate and Destroy (for shooting and mobs)\n
-• Playability\n
-• Inputs, Mouse Position and simple Raycasts\n
-• Audio and Camera treatment\n
-• Basic Particles Systems\n
-• 2D and 3D vectors\n
-• How to Build the project\n
+• The basics of the Unity Editor\
+• Game Managers, UI Managers, Instances and Singletons\
+• Usage of the Unity Inspector\
+• Basic Animations, sprites and Animator\
+• Movement and colliders\
+• Instantiate and Destroy (for shooting and mobs)\
+• Playability\
+• Inputs, Mouse Position and simple Raycasts\
+• Audio and Camera treatment\
+• Basic Particles Systems\
+• 2D and 3D vectors\
+• How to Build the project\
 
 
