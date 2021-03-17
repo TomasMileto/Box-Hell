@@ -20,6 +20,8 @@ Despite being the first of the two I devoloped for that course, I find this one 
 • 2D and 3D vectors\
 • How to Build the project
 
+PD: The music and majority of the sounds where made by me using BoscaCoil (actually not recommended, gave me a lot of troubles with my second project)
+
 ## What I intend to do whit this project
 
 • Support joystick input\
