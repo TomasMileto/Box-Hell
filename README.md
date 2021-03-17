@@ -5,7 +5,7 @@ Box Hell is a survival arcade game I made for the first project of my game dev c
 Despite being the first of the two I devoloped for that course, I think (personally) that this is the most fun.
 
 
-##What I Learned
+## What I Learned
 
 • The basics of the Unity Editor\
 • Game Managers, UI Managers, Instances and Singletons\
